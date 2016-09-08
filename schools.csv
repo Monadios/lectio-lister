@@ -16,9 +16,9 @@ Campus  Bornholm STX & HF,137
 Campus  Kujalleq,364
 Christianshavns Gymnasium,5
 CPH WEST  - Albertslund Gymnasium & HF,43
-CPH WEST  – hhx, Ishøj og CPH10,44
-CPH WEST  – HTX, Albertslund – ATG,45
-CPH WEST  - htx, Ishøj,46
+CPH WEST  – hhx Ishøj og CPH10,44
+CPH WEST  – HTX Albertslund – ATG,45
+CPH WEST  - htx Ishøj,46
 CPH WEST  - Ishøj Gymnasium,47
 CPH WEST  Handelsgymnasiet i Ballerup,48
 Det frie  Gymnasium,40
@@ -27,10 +27,9 @@ Deutsches Gymnasium für  Nordschleswig,162
 Dronninglund Gymnasium,292
 Egedal  Gymnasium & HF,62
 Egaa  Gymnasium,256
-Erhvervsskolerne Aars, hhx og  htx,529
+Erhvervsskolerne Aars hhx og  htx,529
 Esbjerg  Gymnasium,181
 ESNORD  Gym - Erhvervsgymnasier Helsingør,992
-ESNORD  Gym - Teknisk Gymnasium Hillerød,993
 Espergærde Gymnasium og HF,57
 EUC  NORD - HG,317
 EUC  NORD - HHX,318
@@ -84,7 +83,7 @@ Horsens  Gymnasium,209
 Horsens  Statsskole,202
 Hou  Maritime Idrætsefterskole,544
 HTX  Gastro-science,765
-HTX  Sukkertoppen - Københavns Tekniske Gymnasium,518
+HTXSukkertoppen - Københavns Tekniske Gymnasium,518
 HTX  Vibenhus - Københavns Tekniske Gymnasium,519
 Hvidovre  Gymnasium og HF,2
 Hvidovre Kommune,777
@@ -111,7 +110,7 @@ Københavns VUC,530
 Københavns åbne Gymnasium,32
 Køge  Gymnasium,72
 Køge  Handelsgymnasium,131
-Køge  Private Realskole, Gymnasium,932
+Køge  Private Realskole Gymnasium,932
 Langkaer Gymnasium/ HF/ IB World  School,242
 Learnmark Horsens Handelsgymnasium  HHX,306
 Learnmark Horsens Teknisk Gymnasium  HTX,305
@@ -131,7 +130,7 @@ Munkensdam Gymnasium,207
 N. Zahles Gymnasieskole,19
 Nakskov  Gymnasium og HF,402
 Niels  Steensens Gymnasium,20
-Niuernermik Ilinniarfik, Nuuk,988
+Niuernermik Ilinniarfik Nuuk,988
 Nordfyns Gymnasium,513
 Nordsjællands Grundskole og  Gymnasium,63
 Nyborg  Gymnasium,144
@@ -165,7 +164,7 @@ Rødovre  Gymnasium,24
 Rønde  Gymnasium,247
 Sankt  Annæ Gymnasium,25
 Sct. Knuds Gymnasium,590
-SDU,  Teoretisk Pædagogikum,500
+SDU  Teoretisk Pædagogikum,500
 Silkeborg Gymnasium,248
 Skanderborg Gymnasium,249
 Skanderborg-Odder Center for uddannelse  HF & VUC,560
@@ -192,15 +191,15 @@ Th. Langs HF & VUC,360
 Thisted  Gymnasium & HF-kursus,263
 TietgenSkolen,553
 Tornbjerg Gymnasium,564
-Tradium, Mariagerfjord,567
-Tradium, Minervavej,566
-Tradium, Rådmands Boulevard,571
-Tradium, Vester Allé,572
+Tradium Mariagerfjord,567
+Tradium Minervavej,566
+Tradium Rådmands Boulevard,571
+Tradium Vester Allé,572
 Tørring  Gymnasium,208
 Tårnby  Gymnasium,30
 UCH  Handelsgymnasium,508
 UCH  Teknisk Gymnasium,509
-UCN,  Teknologi og Business,669
+UCN  Teknologi og Business,669
 UCVest,782
 Varde  Gymnasium og HF-kursus,185
 Varde  Handelsskole og Handelsgymnasium,902
@@ -219,8 +218,8 @@ Viby  Gymnasium,250
 Viden  Djurs - VID Gymnasier,641
 Virum  Gymnasium,33
 Vordingborg Gymnasium & HF,116
-VUC  Hvidovre-Amager, Amager afd.,454
-VUC  Hvidovre-Amager, Hvidovre afd.,455
+VUC  Hvidovre-Amager Amager afd.,454
+VUC  Hvidovre-Amager Hvidovre afd.,455
 VUC  Lyngby,537
 VUC  Vestegnen,536
 VUC  Vestsjælland Nord,542
@@ -243,4 +242,3 @@ Aalborghus Gymnasium,290
 Århus  Akademi,311
 Aarhus  Katedralskole,251
 Aarhus  Private Gymnasium,627
-Vis alle skoler,login_list.aspx?showall=1
